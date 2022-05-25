@@ -59,7 +59,7 @@ Aome is capable of telling the time as a response to phrases like `"tell me the 
 
 Aome is capable of telling a joke as a response to phrases like `"make me laugh"` or `"cuéntame un chiste"`.
 
-![gif](./joke.gif)
+![gif](./jokes.gif)
 
 - ### Displaying Crypto Data
 
